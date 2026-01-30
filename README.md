@@ -7,7 +7,7 @@ i also didn't know if i needed to gatekeep this or make it public, but i chose o
 
 and ffs **PLEASE DONT STEAL IT.**
 # Installing the tool.
-1. Download the latest version of the tool from the Releases tab.
+1. Download the latest version of the tool from the <a href="https://github.com/VadimCanPlay/c0mplex-s-tool-config/releases">Releases tab.</a>
 2. Go into Steam, right click CS2 > Manage > Browse local files.
 3. In the game files folder, go into game > csgo > cfg
 4. Put the config file there.
