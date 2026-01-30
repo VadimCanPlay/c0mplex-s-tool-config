@@ -1,8 +1,11 @@
 # c0mplex-s-tool-config
 I personally made this tool for practice servers in CS2.
+
 This is the official repo btw, so check for updates here, and ONLY HERE.
+
 i also didn't know if i needed to gatekeep this or make it public, but i chose option B, so enjoy the tool!
-and ffs PLEASE DONT STEAL IT.
+
+and ffs **PLEASE DONT STEAL IT.**
 # Installing the tool.
 1. Download the latest version of the tool from the Releases tab.
 2. Go into Steam, right click CS2 > Manage > Browse local files.
