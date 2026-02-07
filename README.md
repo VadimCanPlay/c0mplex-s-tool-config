@@ -22,3 +22,9 @@ Run the exec command that you ran.
 Yes, since its a .cfg file, you can look into the content of it to make sure its safe.
 ## How do i enable console?
 Go into the settings > Game > Enable Developer Console: Yes. Then press the tilda (~) key thats right under the ESC key to open the console.
+## How can i bind the config to a short command?
+Go into Steam, right click CS2 > Properties, scroll down and paste this into the textbox:
+```
++alias commandnamehere "exec c0mpl3xs_tool_config"
+```
+"commandnamehere" has to be changed to whatever you would like to enter to start up the config. "c0mpl3xs_tool_config" is the file name so if its any different, change it.
