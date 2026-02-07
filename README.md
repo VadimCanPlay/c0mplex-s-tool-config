@@ -17,7 +17,7 @@ and ffs **PLEASE DONT STEAL IT.**
 8. The menu should show up and load all of the commands!
 # Q & A:
 ## How do i make the command list appear again?
-Run the exec command that you ran.
+Run the exec command that you ran. Or go to How can i bind the config to a short command? and set it up.
 ## Is it safe to use?
 Yes, since its a .cfg file, you can look into the content of it to make sure its safe.
 ## How do i enable console?
