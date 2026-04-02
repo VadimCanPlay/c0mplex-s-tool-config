@@ -28,3 +28,5 @@ Go into Steam, right click CS2 > Properties, scroll down and paste this into the
 +alias commandnamehere "exec c0mpl3xs_tool_config"
 ```
 "commandnamehere" has to be changed to whatever you would like to enter to start up the config. "c0mpl3xs_tool_config" is the file name so if its any different, change it.
+
+<img width="1537" height="975" alt="Screenshot 2026-04-02 201420" src="https://github.com/user-attachments/assets/bdaa9603-0773-444d-b59f-010a953e84a2" />
